@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   resources :users
- root ' Usersr#index'
+ root ' Users#index'
 end
